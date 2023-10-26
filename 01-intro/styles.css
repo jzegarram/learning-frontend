@@ -1,0 +1,20 @@
+#midivfavorito {
+    background-color: red;
+}
+
+#midivfavorito .box {
+    background-color: blue;
+}
+
+a[href="/about"] {
+    color: blueviolet;
+}
+
+a:active {
+    color: brown;
+}
+
+div {
+    background-color: aquamarine;
+}
+
